@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://jrussell25.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "John C. Russell"
@@ -23,7 +23,7 @@ title = "John C. Russell"
 author = "John Russell"
 #copyright = "2021"
 description = "Researcher at the interface of physics, biology and computation."
-profilePicture = "images/profile.jpg"
+profilePicture = "images/jcr_headshot.jpeg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -95,8 +95,8 @@ url = "mailto:johnrussell@g.harvard.edu"
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+#  [[menu.main]]
+#  name = "Contact"
+#  weight = 400
+#  identifier = "contact"
+#  url = "/contact/"
