@@ -22,7 +22,8 @@ pygmentsCodefencesGuessSyntax = true
 title = "John C. Russell"
 author = "John Russell"
 #copyright = "2021"
-description = "Researcher at the interface of physics, biology and computation."
+description = """I'm a Ph.D. student in the Hekstra lab at Harvard University.
+I'm using microscopy to understand microbial metabolism and developing computational tools for quantitiative image analysis."""
 profilePicture = "images/jcr_headshot.jpeg"
 keywords = ""
 favicon = "favicons/"
