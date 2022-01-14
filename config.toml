@@ -53,7 +53,7 @@ doNotLoadAnimations = false
 
 ## Math settings
 [params.math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = true # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
@@ -96,8 +96,8 @@ url = "mailto:johnrussell@g.harvard.edu"
   identifier = "about"
   url = "/about/"
 
-#  [[menu.main]]
-#  name = "Contact"
-#  weight = 400
-#  identifier = "contact"
-#  url = "/contact/"
+ [[menu.main]]
+ name = "C.V."
+ weight = 400
+ identifier = "cv"
+ url = "cv.pdf"
